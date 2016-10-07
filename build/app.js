@@ -1,0 +1,1 @@
+var app=angular.module("myApp",["ui.router"]);app.config(function(e,o){o.otherwise("/foodie"),e.state("piza",{url:"/piza/:key",templateUrl:"partials/piza.html",controller:function(e,o){e.headline=e.food[o.key].head,e.desc=e.food[o.key].description,e.images=e.food[o.key].image}}).state("foodie",{url:"/foodie",templateUrl:"partials/foodie.html"})});
