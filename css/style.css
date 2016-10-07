@@ -1,0 +1,67 @@
+h1{
+	text-align: center;
+	padding: 30px;
+	color:  #cc33ff;
+	font-size: 30px;
+}
+header{
+	background-color:  #ffff99;
+}
+.foodie{
+	background-color: #ff4da6;
+	padding: 40px;
+}
+.foodie a{
+	padding: 0px 30px 0px 30px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+.foodie a:hover{
+	background-color:  #bfff80;
+}
+.display{
+	background-color: #ffb3b3;
+}
+.foods{
+	margin-bottom: 20px;
+}
+h2{
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: #00004d;
+	padding-top: 20px;
+	/*margin-bottom: 20px;*/
+}
+img{
+	margin-left: 350px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+h3{
+	text-align:center;
+	font-size: 20px;
+	color: #00004d;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+p{
+	text-align: center;
+	color: #00004d;
+	font-size: 15px;
+	padding-bottom: 35px;
+}
+button{
+	margin-left: 630px;
+	border:none;
+	background-color:  #99004d;
+	font-weight: bold;
+	color: #fff;
+	font-size: 15px;
+	padding: 10px;
+	border-radius: 5px;
+}
+.btn{
+	padding-bottom: 20px;
+}
