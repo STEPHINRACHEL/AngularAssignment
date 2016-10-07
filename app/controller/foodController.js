@@ -5,7 +5,7 @@ $scope.foodies=function(){
   $location.path("foodie");
 }
 $scope.food=[
-  {'item':'PIZA',
+  {'item':'PIZZA',
   'head':'PIZZAAA...!!!',
     'description':'Piza is a tasty foreign dish.Pizza is a flatbread generally topped with tomato sauce and cheese and baked in an oven. It is commonly topped with a selection of meats, vegetables and condiments.',
     'image':'images/piza.jpg'
